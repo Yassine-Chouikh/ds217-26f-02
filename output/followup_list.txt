@@ -1,0 +1,10 @@
+Cutoff: 140 mmHg
+Reason: Apparently 140 mmHg is the stage 2 hypertension threshold... So it flags patients who probably need treatment while keeping the call list short enough for one week.
+P002
+P006
+P011
+P014
+P018
+P022
+P025
+P028
