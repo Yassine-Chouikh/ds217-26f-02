@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+So basically we're gonna read a week of clinic blood pressure readings from a CSV file and throw out the bad rows and save a summary report and a list of patients to call back
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
 
 ## Files
 
